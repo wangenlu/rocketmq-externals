@@ -15,14 +15,14 @@
     <name>rocketmq-console-ng</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.7</java.version>
+        <java.version>1.8</java.version>
         <guava.version>16.0.1</guava.version>
         <commons-digester.version>2.1</commons-digester.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-io.version>2.4</commons-io.version>
         <commons-cli.version>1.2</commons-cli.version>
-        <rocketmq.version>4.4.0-SNAPSHOT</rocketmq.version>
-        <surefire.version>2.19.1</surefire.version>
+        <rocketmq.version>4.4.0</rocketmq.version>
+        <surefire.version>2.22.0</surefire.version>
         <aspectj.version>1.6.11</aspectj.version>
         <main.basedir>${basedir}/../..</main.basedir>
         <docker.image.prefix>styletang</docker.image.prefix>
